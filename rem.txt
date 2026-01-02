@@ -1,2 +1,4 @@
+#profile-update-interval: 1
+#profile-title: TTYEEW
 vless://21797125-1cac-40e0-be91-d5ec4375a6b4@178.154.201.52:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=sun6-22.userapi.com&fp=chrome&pbk=n3D2iju9CkAzG7m88Kmg5nZZgAjBC9PCgpEpFeaxMmQ&sid=a20d3ed244c76426&packetEncoding=xudp#CIDR%F0%9F%87%B7%F0%9F%87%BASaint%20Petersburg(%D0%9E%D0%B1%D1%85%D0%BE%D0%B4%2374-Reality)
 vless://21797125-1cac-40e0-be91-d5ec4375a6b4@84.201.143.90:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=sun6-22.userapi.com&fp=chrome&pbk=1t6VzxMzjuTsiwc-4wux1dNa1WZcANF2cluIa5sWnTA&sid=f24fffeb33ff57e0&packetEncoding=xudp#CIDR%F0%9F%87%B7%F0%9F%87%BASaint%20Petersburg(MTS-NEW)
